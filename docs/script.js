@@ -87,7 +87,7 @@ function setEnglish(){
     document.getElementById("pic-com").innerText = "Look, this is me!";
     document.getElementById("background-label").innerText = "Do you want to change the background color?";
     document.getElementById("click-req").innerText = "Click on your favourite!";
-    document.getElementById("info-title").innerText = ">What I do:";
+    document.getElementById("info-title").innerText = "What I do:";
     document.getElementById("info-1").innerText = "I like creating any kind of software, from webpages to videogames!";
     document.getElementById("info-2").innerText = "And, of course, learning is one of my passions!";
 
