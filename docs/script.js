@@ -60,7 +60,7 @@ function setSpanish(){
     document.getElementById("projects-more-title").innerHTML = "¿Quieres ver más de mis proyectos?";
 
     document.getElementById("ach-title").innerText = "¿Mis Logros Académicos?";
-    document.getElementById("ach-title").innerText = "¡Aquí los tienes!";
+    document.getElementById("ach-sub").innerText = "¡Aquí los tienes!";
     document.getElementById("ach-info").innerText = "¡Puedes darle click a las certificaciones y chequearlas!";
     document.getElementById("ach-1").innerText = "Responsive Web Design Certification de FreeCodeCamp";
     document.getElementById("ach-2").innerText = "JavaScript Algorithms and Data Structures de FreeCodeCamp";
@@ -110,7 +110,7 @@ function setEnglish(){
     document.getElementById("projects-more-title").innerHTML = "Want to see more of my work?";
 
     document.getElementById("ach-title").innerText = "My Academic Achievements?";
-    document.getElementById("ach-title").innerText = "Here you go!";
+    document.getElementById("ach-sub").innerText = "Here you go!";
     document.getElementById("ach-info").innerText = "You can click on each and check the certifications yourself!";
     document.getElementById("ach-1").innerText = "FreeCodeCamp's Responsive Web Design Certification";
     document.getElementById("ach-2").innerText = "FreeCodeCamp's Front End Development Libraries";
